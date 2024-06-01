@@ -7,6 +7,7 @@ set autoindent
 set smartindent
 set number
 set rnu
+set autowrite
 nnoremap <Leader>cc :set colorcolumn=80<cr>
 nnoremap <Leader>ncc :set colorcolumn-=80<cr>
 
